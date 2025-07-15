@@ -1,0 +1,55 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE - JetBrains (PyCharm, IntelliJ, etc)
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.env
+.venv
+ENV/
+
+# Project specific
+/repositories/
+/chroma_db/
