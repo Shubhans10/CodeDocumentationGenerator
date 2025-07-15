@@ -1,0 +1,13 @@
+fastapi==0.95.2
+uvicorn==0.24.0
+pydantic==1.10.8
+pydantic-settings==1.2.0
+chromadb==0.4.18
+langchain==0.0.335
+python-multipart==0.0.6
+gitpython==3.1.40
+ast==0.0.2
+celery==5.3.4
+redis==5.0.1
+httpx==0.25.1
+pytest==7.4.3
