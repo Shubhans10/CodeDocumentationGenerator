@@ -53,3 +53,4 @@ ENV/
 # Project specific
 /repositories/
 /chroma_db/
+/frontend/public/
